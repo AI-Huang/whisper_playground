@@ -10,6 +10,9 @@ dependencies = [
     "numpy==1.26.4",
     "openai-whisper>=20250625",
     "packaging>=26.2",
+    "python-dotenv>=1.0.0",
+    "pysubs2>=1.8.1",
     "setuptools>=82.0.1",
     "torch==2.0.1",
+    "httpx>=0.28.1",
 ]
